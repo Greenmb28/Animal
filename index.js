@@ -4,35 +4,35 @@ const petsData = [
         age: 7,
         weightInKilos: 24,
         breed: "Dalmation",
-        pic: "stella.png"
+        pic: "images\\stella.png"
     },
     {
         petName: "Cody",
         age: 8,
         weightInKilos: 22,
         breed: "Corgi",
-        pic: "cody.png"
+        pic: "images\\cody.png"
     },
     {
         petName: "Mango",
         age: 2,
         weightInKilos: 11,
         breed: "Persian",
-        pic: "mango.png"
+        pic: "images\\mango.png"
     },
     {
         petName: "Lucy",
         age: 4,
         weightInKilos: 35,
         breed: "Ball Python",
-        pic: "lucy.png"
+        pic: "images\\lucy.png"
     },
     {
         petName: "Buhmie",
         age: 1,
         weightInKilos: 28,
         breed: "Bull-dog",
-        pic: "buhmie.png"
+        pic: "images\\buhmie.png"
     }
 ];
 const linearListPets = (petsArray, separater) => {
@@ -47,14 +47,14 @@ petsData.unshift({
     age: 3,
     weightInKilos: 28,
     breed: "Greyhound",
-    pic: "carmie.png"
+    pic: "images\\carmie.png"
 });
 petsData.push({
     petName: "Copper",
     age: 3,
     weightInKilos: 0.3,
     breed: "Mali Uromastyx",
-    pic: "copper.png"
+    pic: "images\\copper.png"
 });
 
 // List the pets by name
@@ -88,7 +88,7 @@ let suki = {
   
     breed: "Jack Russel Terrier",
   
-    pic: "suki.png",
+    pic: "images\\suki.png",
   
   };
   
