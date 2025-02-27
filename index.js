@@ -47,14 +47,14 @@ petsData.unshift({
     age: 3,
     weightInKilos: 28,
     breed: "Greyhound",
-    pic: "images\\carmie.png"
+    pic: "carmie.png"
 });
 petsData.push({
     petName: "Copper",
     age: 3,
     weightInKilos: 0.3,
     breed: "Mali Uromastyx",
-    pic: "images\\copper.png"
+    pic: "copper.png"
 });
 
 // List the pets by name
@@ -88,7 +88,7 @@ let suki = {
   
     breed: "Jack Russel Terrier",
   
-    pic: "images\\suki.png",
+    pic: "suki.png",
   
   };
   
